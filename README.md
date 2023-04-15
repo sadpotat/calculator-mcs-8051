@@ -1,4 +1,4 @@
-# calculator-mcs-8051
+# Calculator for mcs-8051
  This is a project I did for my Microprocessor and Assembly Language Programming Lab course. It is a simple calculator that can only work with two 2-digit inputs. The first number, the operator and the second number are prompted separately to save my sanity. 
  
  The following are considered invalid and if entered, will force the user to start again: 
